@@ -59,6 +59,7 @@ header h1 {
     height: 7000px;
     padding: 100px 10px;
     background: var(--indexred);
+    border: 3px solid #0a0a0a;
 }
 
 .main .pdex .pdex_container {
